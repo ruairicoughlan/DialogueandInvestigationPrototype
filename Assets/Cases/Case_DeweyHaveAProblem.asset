@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1787f6335c10bfe45b9093bb119d6e08, type: 3}
+  m_Name: Case_DeweyHaveAProblem
+  m_EditorClassIdentifier: 
+  caseId: Case_001_Dewey
+  caseName: Dewey Have A Problem
+  description: There was a break in at the Concordia Public Library. I should try
+    and sort this out.
+  objectives:
+  - {fileID: 11400000, guid: 606a1acc188e6de4d89f774470917e1b, type: 2}
+  initialCaseFlags: []

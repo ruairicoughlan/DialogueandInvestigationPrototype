@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 618818869ce39f149a07b52e1c4c49dc, type: 3}
+  m_Name: Player_Library_002
+  m_EditorClassIdentifier: 
+  nodeID: Player_Library_002
+  speakerType: 0
+  primarySpeakerCharacter: {fileID: 0}
+  otherParticipants: []
+  dialogueText: "I\u2019m the only person who cared to turn up here. Heard you lost
+    some books or something."
+  requiresPreviousNodesCompleted: 0
+  requiredNodeCompletionIDs: []
+  requiresPlayerBackground: 0
+  requiredPlayerBackgroundType: {fileID: 0}
+  requiresGlobalFlag: 0
+  requiredGlobalFlagID: 
+  casePrerequisites: []
+  hasAvailabilitySkillCheck: 0
+  availabilitySkillRequired: {fileID: 0}
+  availabilitySkillDifficulty: 0
+  isOutcomeDeterminedBySkillCheck: 1
+  outcomeSkillToCheck: {fileID: 11400000, guid: b20883bc1adf0724ab4d32264a266b7a, type: 2}
+  outcomeSkillDifficulty: 69
+  isBadOption: 0
+  isTransitionNode: 0
+  transitionState: 0
+  addTransitionMarkerToText: 0
+  nextNodeIDs:
+  - Serena_Library_003
+  actionsOnComplete: []
+  setGlobalFlagOnComplete: 

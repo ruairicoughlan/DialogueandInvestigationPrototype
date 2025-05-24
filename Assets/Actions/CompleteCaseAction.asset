@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82070a626bd4ff848a1444255d3a67e5, type: 3}
+  m_Name: CompleteCaseAction
+  m_EditorClassIdentifier: 
+  developerDescription: 
+  caseToComplete: {fileID: 11400000, guid: 4909635db5fdedc4da95a311573b8aa0, type: 2}

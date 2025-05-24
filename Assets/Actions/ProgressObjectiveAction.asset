@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 901c54a3a7a045646a8993bdf0ca4965, type: 3}
+  m_Name: ProgressObjectiveAction
+  m_EditorClassIdentifier: 
+  developerDescription: 
+  targetCase: {fileID: 11400000, guid: 4909635db5fdedc4da95a311573b8aa0, type: 2}
+  objectiveIdToProgress: Objective_Case001_InvestigateLibrary

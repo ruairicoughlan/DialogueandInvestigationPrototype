@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e482578417f8804ab651be54d69ec18, type: 3}
+  m_Name: Serena_Player_Case001
+  m_EditorClassIdentifier: 
+  conversationID: Serena_Player_Case001
+  startNodeID: NPC_Intro_001
+  allNodesInConversation:
+  - {fileID: 11400000, guid: 01c823ee2612a8348916f3c6f50012b8, type: 2}
+  - {fileID: 11400000, guid: 2926abd7602268a47a2706671e3e3ad6, type: 2}
+  - {fileID: 11400000, guid: b2d558e3dca8c274694e376232f11121, type: 2}
+  - {fileID: 11400000, guid: 24976d2457d4f4a4f907269b3585a2a6, type: 2}
+  - {fileID: 11400000, guid: 75745862e7d70e7459d275520c45e90e, type: 2}
+  - {fileID: 11400000, guid: f01e265005410be4a9a55a1f0201a079, type: 2}

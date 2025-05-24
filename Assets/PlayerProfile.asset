@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b44641d3535acd8468a5871a460a47ad, type: 3}
+  m_Name: PlayerProfile
+  m_EditorClassIdentifier: 
+  chosenCharacterAvatar: {fileID: 11400000, guid: 3b0e1b5a98ae3ab4ea298691225205ca, type: 2}
+  playerBackground: {fileID: 11400000, guid: 59f4307e32e9e32498dacf70df407d62, type: 2}
+  skills:
+  - skill: {fileID: 11400000, guid: d6f2337e5d1a54940b6ba01c56734941, type: 2}
+    value: 40
+  - skill: {fileID: 11400000, guid: e2f8cf6090de70143ae5f0858efa9764, type: 2}
+    value: 10
+  - skill: {fileID: 11400000, guid: f106025b25ce76745be1b47208e61890, type: 2}
+    value: 10
+  - skill: {fileID: 11400000, guid: 764e9cb441d6e5f439681eb73d315a7f, type: 2}
+    value: 35
+  - skill: {fileID: 11400000, guid: b20883bc1adf0724ab4d32264a266b7a, type: 2}
+    value: 45
+  attributes:
+  - attribute: {fileID: 11400000, guid: 8f490cc702f07c84f9407003f7652461, type: 2}
+    value: 4
+  policeReputationRank: 0
+  initialGlobalFlags: []
